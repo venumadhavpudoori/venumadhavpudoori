@@ -7,7 +7,7 @@ AI/ML Developer
 Full Stack Engineer with 3+ years of experience in designing, developing, and deploying scalable AI systems, distributed data pipelines, and full-stack web development solutions. Proven track record optimizing frontend performance and delivering seamless user experiences through efficient backend architectures.
 
 * 🌍  I'm based in Hyderabad
-* ✉️  You can contact me at [madhav.webdeveloper@gmail.com](mailto:madhav.webdeveloper@gmail.com)
+* ✉️  You can contact me at [madhav.webdeveloper@gmail.com](mailto:venumadhavpudoori@gmail.com)
 * 🧠  I'm currently learning MLOps
 * 👥  I'm looking to collaborate on AI Projects
 
