@@ -8,7 +8,7 @@ Full Stack Engineer with 3+ years of experience in designing, developing, and de
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [madhav.webdeveloper@gmail.com](mailto:venumadhavpudoori@gmail.com)
-* 🧠  I'm currently learning MLOps
+* 🧠  I'm currently learning AI/ML
 * 👥  I'm looking to collaborate on AI Projects
 
 <p align="left">
